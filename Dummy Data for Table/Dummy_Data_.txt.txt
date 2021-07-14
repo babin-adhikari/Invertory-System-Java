@@ -1,0 +1,17 @@
+SNC-100, Kurkure Masala Family Pack, Snack Food, Flavor India, Available, 70, 0
+LIQ-100, Signature Whiskey 250ml, Liquor, Signature Brothers, Available, 1100, 10
+LIQ-101, Ballentine’s rum 1000ml, Liquor, Ballentines, Available, 2200, 15
+DAI-100, Cow milk 500ml, Dairy, Neupane Dairy, Not Available, 38, 0
+BAK-100, Choco mocha 1lb, Bakery, Chef’s Bakery, Available, 800, 0
+SNC-101, Center fruit 1box, Snack Food, UNC Foods, Not Available, 120, 0
+BAK-101, Chocolate cake 2lb, Bakery, Krishna Pouroti, Not Available, 1400, 15
+POL-100, Chicken drumstick 1000gm, Poultry, Valley Express, Available, 400, 10
+LIQ-102, JD with coke can, Liquor, Jack Daniel’s Brewer, Not Available, 1200, 10
+SNC-102, Murano biscuits, Snack Food, Arabian Foods, Available, 75, 10
+DAI-101, Juju Dhau, Dairy, Bhaktapur Dairy, Available, 65, 0
+BAK-102, Black Forest 1lb, Bakery, Krishna Pouroti, Not Available, 700, 0
+SNC-103, Pringles, Snack Food, Pringles Inc, Available, 250, 0
+LIQ-103, Passport whiskey 1000ml, Liquor, Passport Inc, Available, 800, 0
+POL-101, Egg 1 crate, Poultry, Avinash Farms, Available, 350, 10
+POL-102, Buff Sausage 12pcs, Poultry, Bhaktapur Farms, Available, 380, 15
+BAK-103, Muffins 8pcs, Bakery, Chef’s Bakery, Available, 300, 10

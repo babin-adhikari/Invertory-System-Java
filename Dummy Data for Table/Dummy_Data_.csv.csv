@@ -1,0 +1,21 @@
+﻿Item Id,Item Name,Category,Company,Availability,Price,Discount
+SNC-100,American Classic Lays 1pcs,Snack Food,Lays,Available,45,10
+POL-100,Avinash Egg 1crate,Poultry,Avinash Poultry Farm,Available,315,10
+LIQ-100,Jack Daniels 500ml,Liquor,Jack Daniels Brewer,Available,3150,10
+BAK-100,Chocolate Brownie 1pcs,Bakery,Krishna Pouroti,Not Available,60,0
+DAI-100,Safal yoghurt 500ml,Dairy,Safal Dairy,Not Available,60,0
+LIQ-101,Ruslan 500ml,Liquor,Ruslan Suppliers,Available,935,15
+BAK-101,Truffle cake 1lb,Bakery,Chef's Bakery,Available,800,0
+SNC-101,Kurkure family pack,Snack Food,CG Foods,Available,60,0
+SNC-102,Potato Cracker 1pack,Snack Food,Pran,Available,40,0
+POL-101,Chicken Breast 500gm,Poultry,Valley Express,Available,290,0
+BAK-102,Black Forest Cake 2lbs,Bakery,Chef's Bakery,Not Available,810,10
+SNC-103,WaiWai Chicken Pizza 1 box,Snack Food,CG Foods,Available,315,10
+LIQ-102,Red Label 1000ml,Liquor,Johnny Walker,Available,5500,0
+DAI-101,Milk 500ml,Dairy,Safal Dairy,Available,33,0
+DAI-102,Cheddar cheese 8slices,Dairy,American Garden,Available,120,0
+DAI-103,Goat cheese,Dairy,American Garden,Not Available,180,10
+BAK-103,Cupcake 8pcs,Bakery,Krishna Pouroti,Available,360,10
+POL-102,Chicken Sausage 12pcs,Poultry,Valley Express,Available,342,10
+SNC-104,Pringles ,Snack Food,Pringles Inc,Available,252,10
+SNC-105,Rara Noodles 1pcs,Snack Food,CG Foods,Available,25,0

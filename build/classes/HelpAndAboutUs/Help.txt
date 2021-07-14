@@ -1,0 +1,31 @@
+Need Assistance?
+Please check out the following points to find what you’re looking for :
+
+
+- Importing .txt/.csv File:
+  To import a (.txt)/(.csv) locate and click the file option from the menu bar and select import .csv File or import .txt File option from the drop-down menu of file. After this, 
+  simply locate the file on your computer and press open.
+ 
+- Adding an Item:
+  To add an item to the System Record Table, click on the Add an Item option in the home page. Eventually, you have to fill up all the details related to the item you’re adding to the table.
+  All the details, options for the item must be entered correctly. If any of the details are left empty, the system won’t add the item to the table.
+
+- Updating an Item:
+  To update the details of an item, you have to enter the Item Id of the associated item
+
+- Deleting the details of an item:
+  To delete the details of the item from the system record table, enter the Item Id of the item you want to delete and click the delete item button. Eventually, the item will be deleted. 
+  In the case that the entered Item Id doesn’t match the Item Id in the table, the system will show an error popup.
+
+  To delete all the item details, present in the system record table click the Drop Table button. Eventually, all the item details in the table will be deleted.
+
+- Search for an Item by Price/ Browse items by category:
+  To search for an item by price, just enter price in the Search By Price textbox and it will show the results of the search in a dialogue box. In the case that the entered price doesn’t 
+  match the price in the system record table, an error message will appear on the screen.
+
+  To Browse an item by category, select a category from the combo box and the items under a category will be displayed on a dialogue box. If there are no items under a category, a warning 
+  message will appear.
+
+
+
+
